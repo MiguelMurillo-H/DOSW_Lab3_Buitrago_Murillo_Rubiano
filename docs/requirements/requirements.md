@@ -46,6 +46,29 @@ El Sistema TechCup debe tener:
 | **Diagrama de caso de uso** | *![Diagrama caso de uso - Registro de equipo](../uml/uc-registro-equipo.jpeg)*|
 | **Poscondiciones** | *El equipo queda vinculado al torneo activo con estado de pago "Pendiente".* |
 
+#### 2.1.1 Enlace al mockup completo
+
+[Ver mockup en Figma] (https://www.figma.com/design/ebd6p7zyM1bNFApaIhxGlN/Lab02Dosw_SB_MM_JR?node-id=33-163&t=jhxNa6PY3OwXn7bZ-1)
+
+### 2.1.2 Flujo de navegación
+
+El flujo consta de 4 pantallas conectadas de manera secuencial:
+
+**Pantalla 1 - Torneo Activo**
+
+![Pantalla 1 - Torneo Activo](../images/1.%20torneo-activo.jpeg)
+
+**Pantalla 2 - Datos del equipo**
+
+![Pantalla 2 - Datos del equipo](../images/2.%20datos-del-equipo.jpeg)
+
+**Pantalla 3 - Confirmar registro**
+
+![Pantalla 3 - Confirmar registro](../images/3.%20confirmar-registro.jpeg)
+
+**Pantalla 4 - Registro exitoso**
+
+![Pantalla 4 - Registro exitoso](../images/4.%20registro-exitoso.jpeg)
 
 ### 2.2 Requerimiento Funcional 2
 
